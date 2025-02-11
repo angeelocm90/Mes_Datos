@@ -1,0 +1,805 @@
+Probabilidad;Importancia;Regla
+1;0.009543873;Naturaleza Interrupcion = No Programado, Operacion, Responsable Interrupcion = Terceros -> Cumple = False
+1;0.006457444;Submotivo = Contacto accidental con linea, Causa Interrupcion = Contacto accidental con la linea -> Cumple = False
+1;0.006457444;Submotivo = Contacto accidental con linea, Responsable Interrupcion = Terceros -> Cumple = False
+1;0.006457444;Submotivo = Contacto accidental con linea, Naturaleza Interrupcion = No Programado, Accion De Terceros -> Cumple = False
+1;0.006457444;Submotivo = Contacto accidental con linea, Motivo = Otros y/o terceros -> Cumple = False
+1;0.005862129;Submotivo = Contacto accidental con linea, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+1;0.006457444;Submotivo = Contacto accidental con linea, Propiedad De La Inst Causante = Propia -> Cumple = False
+1;0.006457444;Causa Interrupcion = Contacto accidental con la linea -> Cumple = False
+1;0.006457444;Causa Interrupcion = Contacto accidental con la linea, Responsable Interrupcion = Terceros -> Cumple = False
+1;0.006457444;Causa Interrupcion = Contacto accidental con la linea, Naturaleza Interrupcion = No Programado, Accion De Terceros -> Cumple = False
+1;0.006457444;Causa Interrupcion = Contacto accidental con la linea, Motivo = Otros y/o terceros -> Cumple = False
+1;0.005862129;Causa Interrupcion = Contacto accidental con la linea, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+1;0.006457444;Causa Interrupcion = Contacto accidental con la linea, Propiedad De La Inst Causante = Propia -> Cumple = False
+1;0.013714677;Causa Interrupcion = Animales (Felinos y Roedores), Solicito FM = False -> Cumple = False
+1;0.006457444;Causa Interrupcion = Caida conductor de red, Tipo Med = Subestacion de Distribucion -> Cumple = False
+1;0.006457444;Submotivo = Linea abierta o caida, Tipo Med = Subestacion de Distribucion -> Cumple = False
+1;0.014611887;Submotivo = Cambio de Tablero y/o  Transformador de Distribucion, Propiedad De La Inst Causante = Propia -> Cumple = False
+1;0.014611887;Submotivo = Cambio de Tablero y/o  Transformador de Distribucion, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+1;0.014611887;Submotivo = Cambio de Tablero y/o  Transformador de Distribucion, Solicito FM = False -> Cumple = False
+1;0.014611887;Submotivo = Cambio de Tablero y/o  Transformador de Distribucion, Responsable Interrupcion = Propia -> Cumple = False
+1;0.014589682;Submotivo = Cambio de Tablero y/o  Transformador de Distribucion, Tipo Med = Subestacion de Distribucion -> Cumple = False
+1;0.014611887;Submotivo = Cambio de Tablero y/o  Transformador de Distribucion, Causa Interrupcion = Por mantenimiento -> Cumple = False
+1;0.014611887;Submotivo = Cambio de Tablero y/o  Transformador de Distribucion, Motivo = Mantenimiento preventivo -> Cumple = False
+1;0.012540664;Causa Interrupcion = Animales (Felinos y Roedores), Tipo Med = Subestacion de Distribucion -> Cumple = False
+1;0.013714677;Causa Interrupcion = Animales (Felinos y Roedores) -> Cumple = False
+1;0.014611887;Submotivo = Cambio de Tablero y/o  Transformador de Distribucion, Naturaleza Interrupcion = Programado Mantenimiento -> Cumple = False
+1;0.014611887;Submotivo = Cambio de Tablero y/o  Transformador de Distribucion -> Cumple = False
+1;0.007146218;Submotivo = Descarga atmosferica -> Cumple = False
+1;0.007146218;Submotivo = Descarga atmosferica, Causa Interrupcion = Descargas atmosfericas -> Cumple = False
+1;0.007146218;Submotivo = Descarga atmosferica, Responsable Interrupcion = Fenomenos Naturales -> Cumple = False
+1;0.007146218;Submotivo = Descarga atmosferica, Naturaleza Interrupcion = No Programado, Fenomenos Naturales -> Cumple = False
+1;0.007146218;Submotivo = Descarga atmosferica, Motivo = Falla -> Cumple = False
+1;0.007146218;Submotivo = Descarga atmosferica, Solicito FM = False -> Cumple = False
+1;0.007146218;Submotivo = Descarga atmosferica, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+1;0.007146218;Submotivo = Descarga atmosferica, Propiedad De La Inst Causante = Propia -> Cumple = False
+1;0.007146218;Causa Interrupcion = Descargas atmosfericas -> Cumple = False
+1;0.007146218;Causa Interrupcion = Descargas atmosfericas, Responsable Interrupcion = Fenomenos Naturales -> Cumple = False
+1;0.007146218;Causa Interrupcion = Descargas atmosfericas, Naturaleza Interrupcion = No Programado, Fenomenos Naturales -> Cumple = False
+1;0.007146218;Causa Interrupcion = Descargas atmosfericas, Motivo = Falla -> Cumple = False
+1;0.007146218;Causa Interrupcion = Descargas atmosfericas, Solicito FM = False -> Cumple = False
+1;0.007146218;Causa Interrupcion = Descargas atmosfericas, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+1;0.007146218;Causa Interrupcion = Descargas atmosfericas, Propiedad De La Inst Causante = Propia -> Cumple = False
+1;0.007598253;Submotivo = Cambio de estructuras y accesorios en riesgo -> Cumple = False
+1;0.007598253;Submotivo = Cambio de estructuras y accesorios en riesgo, Causa Interrupcion = Corte de emergencia (No incluidos en PM y PE) -> Cumple = False
+1;0.007598253;Submotivo = Cambio de estructuras y accesorios en riesgo, Motivo = Por maniobra sin aviso, corta -> Cumple = False
+1;0.007598253;Submotivo = Cambio de estructuras y accesorios en riesgo, Naturaleza Interrupcion = No Programado, Operacion -> Cumple = False
+1;0.007598253;Submotivo = Cambio de estructuras y accesorios en riesgo, Responsable Interrupcion = Propia -> Cumple = False
+1;0.007598253;Submotivo = Cambio de estructuras y accesorios en riesgo, Solicito FM = False -> Cumple = False
+1;0.007453045;Submotivo = Cambio de estructuras y accesorios en riesgo, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+1;0.007598253;Submotivo = Cambio de estructuras y accesorios en riesgo, Propiedad De La Inst Causante = Propia -> Cumple = False
+1;0.007146218;Naturaleza Interrupcion = No Programado, Fenomenos Naturales, Motivo = Falla -> Cumple = False
+1;0.010392696;Causa Interrupcion = Por Expansion o reforzamiento de redes, Tipo Med = Subestacion de Distribucion -> Cumple = False
+1;0.010392696;Naturaleza Interrupcion = Programado,Expansion O Reforzamiento, Tipo Med = Subestacion de Distribucion -> Cumple = False
+1;0.007146218;Responsable Interrupcion = Fenomenos Naturales, Motivo = Falla -> Cumple = False
+1;0.010392696;Motivo = Interrupcion por Expansion y Reforzamiento, Tipo Med = Subestacion de Distribucion -> Cumple = False
+1;0.011305434;Submotivo = Objetos en redes (Cometas, cintas, etc), Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+1;0.005645998;Submotivo = Incremento de la Capacidad de Transformacion, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+1;0.015201656;Naturaleza Interrupcion = No Programado, Operacion, Tipo Med = Subestacion de Distribucion -> Cumple = False
+1;0.014134816;Causa Interrupcion = Falla equipo (transformador,interruptor, seccionador de potencia etc), Tipo Med = Subestacion de Distribucion -> Cumple = False
+1;0.013013917;Naturaleza Interrupcion = No Programado, Operacion, Tipo Med = Alimentador Media Tension -> Cumple = False
+1;0.007873685;Causa Interrupcion = Contacto entre conductores, Tipo Med = Subestacion de Distribucion -> Cumple = False
+1;0.013064504;Causa Interrupcion = Falla equipo (transformador,interruptor, seccionador de potencia etc), Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+1;0.00848605;Naturaleza Interrupcion = No Programado, Operacion, Solicito FM = True -> Cumple = False
+1;0.012813495;Submotivo = Cortocircuito -> Cumple = False
+1;0.005862129;Responsabilidad Interrupcion = Transmision, Naturaleza Interrupcion = No Programado, Falla -> Cumple = False
+1;0.009543873;Naturaleza Interrupcion = No Programado, Operacion, Motivo = Otros y/o terceros -> Cumple = False
+1;0.008704765;Submotivo = Averia en tablero de distribucion -> Cumple = False
+1;0.008704765;Submotivo = Averia en tablero de distribucion, Causa Interrupcion = Falla equipo (transformador,interruptor, seccionador de potencia etc) -> Cumple = False
+1;0.008130818;Submotivo = Averia en tablero de distribucion, Tipo Med = Subestacion de Distribucion -> Cumple = False
+1;0.008704765;Submotivo = Averia en tablero de distribucion, Naturaleza Interrupcion = No Programado, Falla -> Cumple = False
+1;0.008704765;Submotivo = Averia en tablero de distribucion, Motivo = Falla -> Cumple = False
+1;0.008704765;Submotivo = Averia en tablero de distribucion, Responsable Interrupcion = Propia -> Cumple = False
+1;0.008704765;Submotivo = Averia en tablero de distribucion, Solicito FM = False -> Cumple = False
+1;0.008704765;Submotivo = Averia en tablero de distribucion, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+1;0.008704765;Submotivo = Averia en tablero de distribucion, Propiedad De La Inst Causante = Propia -> Cumple = False
+1;0.009855346;Responsabilidad Interrupcion = Transmision, Causa Interrupcion = Aves -> Cumple = False
+1;0.009855346;Responsabilidad Interrupcion = Transmision, Submotivo = Aves -> Cumple = False
+1;0.012813495;Submotivo = Cortocircuito, Motivo = Falla -> Cumple = False
+1;0.012813495;Submotivo = Cortocircuito, Causa Interrupcion = Contacto entre conductores -> Cumple = False
+1;0.015637432;Submotivo = Seguridad -> Cumple = False
+1;0.015637432;Submotivo = Seguridad, Causa Interrupcion = Corte de emergencia (No incluidos en PM y PE) -> Cumple = False
+1;0.013714677;Submotivo = Animales (Felinos y/o roedores), Propiedad De La Inst Causante = Propia -> Cumple = False
+1;0.015637432;Submotivo = Seguridad, Motivo = Por maniobra sin aviso, corta -> Cumple = False
+1;0.009543873;Causa Interrupcion = Pedido autoridad (Defensa Civil, Municipalidad, OSINERG etc) -> Cumple = False
+1;0.009543873;Causa Interrupcion = Pedido autoridad (Defensa Civil, Municipalidad, OSINERG etc), Naturaleza Interrupcion = No Programado, Operacion -> Cumple = False
+1;0.00848605;Causa Interrupcion = Pedido autoridad (Defensa Civil, Municipalidad, OSINERG etc), Solicito FM = True -> Cumple = False
+1;0.009543873;Causa Interrupcion = Pedido autoridad (Defensa Civil, Municipalidad, OSINERG etc), Responsable Interrupcion = Terceros -> Cumple = False
+1;0.009543873;Causa Interrupcion = Pedido autoridad (Defensa Civil, Municipalidad, OSINERG etc), Motivo = Otros y/o terceros -> Cumple = False
+1;0.005862129;Causa Interrupcion = Pedido autoridad (Defensa Civil, Municipalidad, OSINERG etc), Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+1;0.009543873;Causa Interrupcion = Pedido autoridad (Defensa Civil, Municipalidad, OSINERG etc), Responsabilidad Interrupcion = Distribucion -> Cumple = False
+1;0.009543873;Causa Interrupcion = Pedido autoridad (Defensa Civil, Municipalidad, OSINERG etc), Propiedad De La Inst Causante = Propia -> Cumple = False
+1;0.015637432;Submotivo = Seguridad, Naturaleza Interrupcion = No Programado, Operacion -> Cumple = False
+1;0.014965772;Submotivo = Seguridad, Tipo Med = Subestacion de Distribucion -> Cumple = False
+1;0.009104448;Submotivo = Seguridad, Tipo Med = Alimentador Media Tension -> Cumple = False
+1;0.012017691;Submotivo = Seguridad, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+1;0.015637432;Submotivo = Seguridad, Responsable Interrupcion = Propia -> Cumple = False
+1;0.006457444;Causa Interrupcion = Contacto de red con arbol, Tipo Med = Alimentador Media Tension -> Cumple = False
+1;0.012190464;Responsable Interrupcion = Terceros, Motivo = Falla -> Cumple = False
+1;0.006457444;Submotivo = Contacto de Red con arbol, Tipo Med = Alimentador Media Tension -> Cumple = False
+1;0.012813495;Submotivo = Cortocircuito, Responsable Interrupcion = Propia -> Cumple = False
+1;0.012813495;Submotivo = Cortocircuito, Solicito FM = False -> Cumple = False
+1;0.005645998;Submotivo = Falla terminal cable, Tipo Med = Subestacion de Distribucion -> Cumple = False
+1;0.012754308;Submotivo = Cortocircuito, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+1;0.011761013;Responsabilidad Interrupcion = Generacion, Solicito FM = False -> Cumple = False
+1;0.011305434;Responsabilidad Interrupcion = Generacion, Motivo = Falla -> Cumple = False
+1;0.01089112;Responsabilidad Interrupcion = Generacion, Naturaleza Interrupcion = No Programado, Accion De Terceros -> Cumple = False
+1;0.009999575;Submotivo = Sobrecarga, Tipo Med = Subestacion de Distribucion -> Cumple = False
+1;0.006983961;Responsabilidad Interrupcion = Generacion, Tipo Med = Alimentador Media Tension -> Cumple = False
+1;0.012813495;Submotivo = Cortocircuito, Propiedad De La Inst Causante = Propia -> Cumple = False
+1;0.011925224;Responsabilidad Interrupcion = Generacion, Responsable Interrupcion = Otras Empresas Electricas -> Cumple = False
+1;0.019301151;Tipo Med = Subestacion de Distribucion, Propiedad De La Inst Causante = Propia -> Cumple = False
+1;0.019301151;Tipo Med = Subestacion de Distribucion, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+1;0.019085204;Tipo Med = Subestacion de Distribucion, Solicito FM = False -> Cumple = False
+1;0.018867673;Tipo Med = Subestacion de Distribucion, Responsable Interrupcion = Propia -> Cumple = False
+1;0.016414606;Tipo Med = Subestacion de Distribucion, Motivo = Falla -> Cumple = False
+1;0.016230561;Tipo Med = Subestacion de Distribucion, Naturaleza Interrupcion = No Programado, Falla -> Cumple = False
+1;0.005862129;Submotivo = Reparacion de Falso contacto/Punto caliente, Tipo Med = Alimentador Media Tension -> Cumple = False
+1;0.005645998;Causa Interrupcion = Falla terminal cable, Tipo Med = Subestacion de Distribucion -> Cumple = False
+1;0.011925224;Submotivo = De unica responsabilidad del cliente, Responsable Interrupcion = Terceros -> Cumple = False
+1;0.006639976;Tipo Med = Linea de Subtransmision, Submotivo = Aves -> Cumple = False
+1;0.006639976;Tipo Med = Linea de Subtransmision, Causa Interrupcion = Aves -> Cumple = False
+1;0.01182829;Submotivo = Averia en equipo de proteccion - Cut Out, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+1;0.006267294;Submotivo = Aves, Tipo Med = Subestacion de Distribucion -> Cumple = False
+1;0.010136887;Submotivo = Averia en equipo de proteccion - Cut Out, Tipo Med = Subestacion de Distribucion -> Cumple = False
+1;0.010626227;Tipo Med = Subestacion de Distribucion, Motivo = Otros y/o terceros -> Cumple = False
+1;0.012907668;Tipo Med = Subestacion de Distribucion, Naturaleza Interrupcion = No Programado, Accion De Terceros -> Cumple = False
+1;0.012925869;Tipo Med = Subestacion de Distribucion, Responsable Interrupcion = Terceros -> Cumple = False
+1;0.010330956;Tipo Med = Subestacion de Distribucion, Solicito FM = True -> Cumple = False
+1;0.019306531;Tipo Med = Subestacion de Distribucion -> Cumple = False
+1;0.011925224;Submotivo = De unica responsabilidad del cliente, Causa Interrupcion = Otros, causados por terceros -> Cumple = False
+1;0.008809188;Causa Interrupcion = Aves, Solicito FM = False -> Cumple = False
+1;0.011925224;Submotivo = De unica responsabilidad del cliente -> Cumple = False
+1;0.005862129;Submotivo = Cortocircuito, Tipo Med = Alimentador Media Tension -> Cumple = False
+1;0.00848605;Submotivo = De generadora / transmisora, Responsabilidad Interrupcion = Generacion -> Cumple = False
+1;0.011305434;Causa Interrupcion = Cometas, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+1;0.015637432;Submotivo = Seguridad, Solicito FM = False -> Cumple = False
+1;0.009287559;Submotivo = De unica responsabilidad del cliente, Tipo Med = Subestacion de Distribucion -> Cumple = False
+1;0.006457444;Submotivo = Contacto accidental con linea -> Cumple = False
+1;0.015634411;Submotivo = Seguridad, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+1;0.013714677;Causa Interrupcion = Animales (Felinos y Roedores), Propiedad De La Inst Causante = Propia -> Cumple = False
+1;0.008597104;Causa Interrupcion = Falla sistema interconectado, Responsabilidad Interrupcion = Generacion -> Cumple = False
+1;0.013714677;Causa Interrupcion = Animales (Felinos y Roedores), Responsabilidad Interrupcion = Distribucion -> Cumple = False
+1;0.01158269;Submotivo = Averia de transformadores, Tipo Med = Subestacion de Distribucion -> Cumple = False
+1;0.013714677;Causa Interrupcion = Animales (Felinos y Roedores), Responsable Interrupcion = Propia -> Cumple = False
+1;0.013714677;Causa Interrupcion = Animales (Felinos y Roedores), Motivo = Falla -> Cumple = False
+1;0.009375341;Causa Interrupcion = Animales (Felinos y Roedores), Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+1;0.013714677;Causa Interrupcion = Animales (Felinos y Roedores), Naturaleza Interrupcion = No Programado, Falla -> Cumple = False
+1;0.008809188;Submotivo = Aves, Solicito FM = False -> Cumple = False
+1;0.006267294;Causa Interrupcion = Aves, Tipo Med = Subestacion de Distribucion -> Cumple = False
+1;0.007598253;Propiedad De La Inst Causante = Otras Empresas Electricas, Tipo Med = Alimentador Media Tension -> Cumple = False
+1;0.006639976;Submotivo = Cambio de ferreteria y accesorios, Tipo Med = Subestacion de Distribucion -> Cumple = False
+1;0.013714677;Submotivo = Animales (Felinos y/o roedores), Responsabilidad Interrupcion = Distribucion -> Cumple = False
+1;0.013714677;Submotivo = Animales (Felinos y/o roedores), Solicito FM = False -> Cumple = False
+1;0.013714677;Submotivo = Animales (Felinos y/o roedores), Responsable Interrupcion = Propia -> Cumple = False
+1;0.013714677;Submotivo = Animales (Felinos y/o roedores), Motivo = Falla -> Cumple = False
+1;0.015395996;Naturaleza Interrupcion = Programado Mantenimiento, Tipo Med = Subestacion de Distribucion -> Cumple = False
+1;0.014158163;Causa Interrupcion = Otros, causados por terceros, Solicito FM = False -> Cumple = False
+1;0.012190464;Causa Interrupcion = Otros, causados por terceros, Motivo = Falla -> Cumple = False
+1;0.012585558;Motivo = Por maniobra sin aviso, corta, Tipo Med = Alimentador Media Tension -> Cumple = False
+1;0.01520538;Motivo = Por maniobra sin aviso, corta, Tipo Med = Subestacion de Distribucion -> Cumple = False
+1;0.006267294;Submotivo = Cortocircuito, Tipo Med = Subestacion de Distribucion -> Cumple = False
+1;0.013064504;Causa Interrupcion = Otros, por falla en componentes del SP, Tipo Med = Subestacion de Distribucion -> Cumple = False
+1;0.011925224;Submotivo = De unica responsabilidad del cliente, Propiedad De La Inst Causante = Propia -> Cumple = False
+1;0.011925224;Submotivo = De unica responsabilidad del cliente, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+1;0.012813495;Submotivo = Cortocircuito, Naturaleza Interrupcion = No Programado, Falla -> Cumple = False
+1;0.013714677;Submotivo = Animales (Felinos y/o roedores), Naturaleza Interrupcion = No Programado, Falla -> Cumple = False
+1;0.015194183;Submotivo = No identificado, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+1;0.012540664;Submotivo = Animales (Felinos y/o roedores), Tipo Med = Subestacion de Distribucion -> Cumple = False
+1;0.009703648;Submotivo = Mantenimiento de Equipos de Maniobra y Proteccion, Tipo Med = Subestacion de Distribucion -> Cumple = False
+1;0.010512056;Submotivo = No identificado, Tipo Med = Subestacion de Distribucion -> Cumple = False
+1;0.013714677;Submotivo = Animales (Felinos y/o roedores), Causa Interrupcion = Animales (Felinos y Roedores) -> Cumple = False
+1;0.009375341;Submotivo = Animales (Felinos y/o roedores), Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+1;0.010512056;Causa Interrupcion = Bajo nivel de aislamiento (Aislado roto / Tension inadecuada), Tipo Med = Subestacion de Distribucion -> Cumple = False
+1;0.015637432;Submotivo = Seguridad, Propiedad De La Inst Causante = Propia -> Cumple = False
+1;0.007453045;Responsable Interrupcion = Otras Empresas Electricas, Tipo Med = Alimentador Media Tension -> Cumple = False
+1;0.012323347;Submotivo = Otros, Solicito FM = False -> Cumple = False
+1;0.008597104;Submotivo = Cortocircuito, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+1;0.011084272;Causa Interrupcion = Otros, causados por terceros, Tipo Med = Subestacion de Distribucion -> Cumple = False
+1;0.011925224;Submotivo = De unica responsabilidad del cliente, Solicito FM = False -> Cumple = False
+1;0.015395996;Motivo = Mantenimiento preventivo, Tipo Med = Subestacion de Distribucion -> Cumple = False
+1;0.010453047;Submotivo = Bajo nivel de aislamiento ( Elemento Electrico mal dimensionado), Tipo Med = Subestacion de Distribucion -> Cumple = False
+1;0.011925224;Submotivo = De unica responsabilidad del cliente, Motivo = Falla -> Cumple = False
+1;0.013714677;Submotivo = Animales (Felinos y/o roedores) -> Cumple = False
+1;0.01234882;Causa Interrupcion = Corte de emergencia (No incluidos en PM y PE), Tipo Med = Alimentador Media Tension -> Cumple = False
+1;0.015197924;Causa Interrupcion = Corte de emergencia (No incluidos en PM y PE), Tipo Med = Subestacion de Distribucion -> Cumple = False
+1;0.015395996;Causa Interrupcion = Por mantenimiento, Tipo Med = Subestacion de Distribucion -> Cumple = False
+1;0.011925224;Submotivo = De unica responsabilidad del cliente, Naturaleza Interrupcion = No Programado, Accion De Terceros -> Cumple = False
+0.999;0.015971534;Naturaleza Interrupcion = No Programado, Operacion -> Cumple = False
+0.999;0.015971534;Naturaleza Interrupcion = No Programado, Operacion, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.999;0.01594771;Submotivo = No identificado -> Cumple = False
+0.999;0.01594771;Submotivo = No identificado, Causa Interrupcion = Otros, por falla en componentes del SP -> Cumple = False
+0.999;0.01594771;Submotivo = No identificado, Motivo = Falla -> Cumple = False
+0.999;0.01594771;Submotivo = No identificado, Solicito FM = False -> Cumple = False
+0.999;0.01594771;Submotivo = No identificado, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.999;0.01594771;Submotivo = No identificado, Responsable Interrupcion = Propia -> Cumple = False
+0.999;0.01594771;Submotivo = No identificado, Naturaleza Interrupcion = No Programado, Falla -> Cumple = False
+0.999;0.015944724;Naturaleza Interrupcion = No Programado, Operacion, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.999;0.015896691;Submotivo = No identificado, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.999;0.015786727;Naturaleza Interrupcion = No Programado, Operacion, Solicito FM = False -> Cumple = False
+0.999;0.01577123;Motivo = Por maniobra sin aviso, corta, Responsable Interrupcion = Propia -> Cumple = False
+0.999;0.01577123;Motivo = Por maniobra sin aviso, corta, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.999;0.01577123;Motivo = Por maniobra sin aviso, corta, Solicito FM = False -> Cumple = False
+0.999;0.01577123;Motivo = Por maniobra sin aviso, corta -> Cumple = False
+0.999;0.015752557;Naturaleza Interrupcion = No Programado, Operacion, Responsable Interrupcion = Propia -> Cumple = False
+0.999;0.015746314;Motivo = Por maniobra sin aviso, corta, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.999;0.015705493;Causa Interrupcion = Corte de emergencia (No incluidos en PM y PE) -> Cumple = False
+0.999;0.015705493;Causa Interrupcion = Corte de emergencia (No incluidos en PM y PE), Propiedad De La Inst Causante = Propia -> Cumple = False
+0.999;0.015705493;Causa Interrupcion = Corte de emergencia (No incluidos en PM y PE), Responsable Interrupcion = Propia -> Cumple = False
+0.999;0.015705493;Causa Interrupcion = Corte de emergencia (No incluidos en PM y PE), Naturaleza Interrupcion = No Programado, Operacion -> Cumple = False
+0.999;0.015705493;Causa Interrupcion = Corte de emergencia (No incluidos en PM y PE), Solicito FM = False -> Cumple = False
+0.999;0.015699175;Causa Interrupcion = Corte de emergencia (No incluidos en PM y PE), Motivo = Por maniobra sin aviso, corta -> Cumple = False
+0.999;0.015699175;Motivo = Por maniobra sin aviso, corta, Naturaleza Interrupcion = No Programado, Operacion -> Cumple = False
+0.999;0.015680159;Causa Interrupcion = Corte de emergencia (No incluidos en PM y PE), Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.998;0.014848104;Causa Interrupcion = Otros, por falla en componentes del SP, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.997;0.015879614;Causa Interrupcion = Otros, por falla en componentes del SP, Naturaleza Interrupcion = No Programado, Falla -> Cumple = False
+0.997;0.015879614;Causa Interrupcion = Otros, por falla en componentes del SP -> Cumple = False
+0.997;0.015879614;Causa Interrupcion = Otros, por falla en componentes del SP, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.997;0.015879614;Causa Interrupcion = Otros, por falla en componentes del SP, Responsable Interrupcion = Propia -> Cumple = False
+0.997;0.015879614;Causa Interrupcion = Otros, por falla en componentes del SP, Solicito FM = False -> Cumple = False
+0.997;0.01580341;Causa Interrupcion = Otros, por falla en componentes del SP, Motivo = Falla -> Cumple = False
+0.997;0.015793405;Causa Interrupcion = Otros, por falla en componentes del SP, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.997;0.014887304;Causa Interrupcion = Bajo nivel de aislamiento (Aislado roto / Tension inadecuada), Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.997;0.014804893;Submotivo = Bajo nivel de aislamiento ( Elemento Electrico mal dimensionado), Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.997;0.013332429;Submotivo = No identificado, Tipo Med = Alimentador Media Tension -> Cumple = False
+0.996;0.012633586;Naturaleza Interrupcion = No Programado, Operacion, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.996;0.015153742;Submotivo = Bajo nivel de aislamiento ( Elemento Electrico mal dimensionado), Solicito FM = False -> Cumple = False
+0.996;0.015153742;Submotivo = Bajo nivel de aislamiento ( Elemento Electrico mal dimensionado), Causa Interrupcion = Bajo nivel de aislamiento (Aislado roto / Tension inadecuada) -> Cumple = False
+0.996;0.015153742;Submotivo = Bajo nivel de aislamiento ( Elemento Electrico mal dimensionado) -> Cumple = False
+0.996;0.015153742;Submotivo = Bajo nivel de aislamiento ( Elemento Electrico mal dimensionado), Naturaleza Interrupcion = No Programado, Falla -> Cumple = False
+0.996;0.015153742;Submotivo = Bajo nivel de aislamiento ( Elemento Electrico mal dimensionado), Motivo = Falla -> Cumple = False
+0.996;0.015153742;Submotivo = Bajo nivel de aislamiento ( Elemento Electrico mal dimensionado), Responsable Interrupcion = Propia -> Cumple = False
+0.996;0.015153742;Submotivo = Bajo nivel de aislamiento ( Elemento Electrico mal dimensionado), Propiedad De La Inst Causante = Propia -> Cumple = False
+0.996;0.015130902;Submotivo = Bajo nivel de aislamiento ( Elemento Electrico mal dimensionado), Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.996;0.012062068;Submotivo = Sobrecarga, Responsable Interrupcion = Propia -> Cumple = False
+0.996;0.012062068;Submotivo = Sobrecarga, Motivo = Falla -> Cumple = False
+0.996;0.012062068;Submotivo = Sobrecarga, Naturaleza Interrupcion = No Programado, Falla -> Cumple = False
+0.996;0.012062068;Submotivo = Sobrecarga, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.996;0.012062068;Submotivo = Sobrecarga, Solicito FM = False -> Cumple = False
+0.996;0.012062068;Submotivo = Sobrecarga, Causa Interrupcion = Otros, por falla en componentes del SP -> Cumple = False
+0.996;0.012062068;Submotivo = Sobrecarga -> Cumple = False
+0.996;0.011976692;Motivo = Por maniobra sin aviso, corta, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.996;0.011959223;Submotivo = Averia en equipo de proteccion - Cut Out, Motivo = Falla -> Cumple = False
+0.996;0.011959223;Submotivo = Averia en equipo de proteccion - Cut Out, Causa Interrupcion = Falla equipo (transformador,interruptor, seccionador de potencia etc) -> Cumple = False
+0.996;0.011959223;Submotivo = Averia en equipo de proteccion - Cut Out, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.996;0.011959223;Submotivo = Averia en equipo de proteccion - Cut Out, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.996;0.011959223;Submotivo = Averia en equipo de proteccion - Cut Out, Naturaleza Interrupcion = No Programado, Falla -> Cumple = False
+0.996;0.011959223;Submotivo = Averia en equipo de proteccion - Cut Out, Responsable Interrupcion = Propia -> Cumple = False
+0.996;0.011959223;Submotivo = Averia en equipo de proteccion - Cut Out, Solicito FM = False -> Cumple = False
+0.996;0.011959223;Submotivo = Averia en equipo de proteccion - Cut Out -> Cumple = False
+0.996;0.011941618;Submotivo = Sobrecarga, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.996;0.01485428;Causa Interrupcion = Bajo nivel de aislamiento (Aislado roto / Tension inadecuada), Motivo = Falla -> Cumple = False
+0.996;0.01485428;Causa Interrupcion = Bajo nivel de aislamiento (Aislado roto / Tension inadecuada), Responsable Interrupcion = Propia -> Cumple = False
+0.996;0.01485428;Causa Interrupcion = Bajo nivel de aislamiento (Aislado roto / Tension inadecuada), Naturaleza Interrupcion = No Programado, Falla -> Cumple = False
+0.996;0.01485428;Causa Interrupcion = Bajo nivel de aislamiento (Aislado roto / Tension inadecuada) -> Cumple = False
+0.996;0.01485428;Causa Interrupcion = Bajo nivel de aislamiento (Aislado roto / Tension inadecuada), Solicito FM = False -> Cumple = False
+0.996;0.01485428;Causa Interrupcion = Bajo nivel de aislamiento (Aislado roto / Tension inadecuada), Propiedad De La Inst Causante = Propia -> Cumple = False
+0.996;0.014825962;Causa Interrupcion = Bajo nivel de aislamiento (Aislado roto / Tension inadecuada), Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.996;0.01181445;Causa Interrupcion = Corte de emergencia (No incluidos en PM y PE), Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.995;0.017219942;Tipo Med = Seccion de Linea o Alimentador, Motivo = Falla -> Cumple = False
+0.995;0.017000106;Naturaleza Interrupcion = No Programado, Falla, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.995;0.012644551;Causa Interrupcion = Otros, por falla en componentes del SP, Tipo Med = Alimentador Media Tension -> Cumple = False
+0.994;0.012785132;Causa Interrupcion = Falla equipo (transformador,interruptor, seccionador de potencia etc), Motivo = Falla -> Cumple = False
+0.994;0.012785132;Causa Interrupcion = Falla equipo (transformador,interruptor, seccionador de potencia etc), Propiedad De La Inst Causante = Propia -> Cumple = False
+0.994;0.012785132;Causa Interrupcion = Falla equipo (transformador,interruptor, seccionador de potencia etc) -> Cumple = False
+0.994;0.012785132;Causa Interrupcion = Falla equipo (transformador,interruptor, seccionador de potencia etc), Naturaleza Interrupcion = No Programado, Falla -> Cumple = False
+0.994;0.012785132;Causa Interrupcion = Falla equipo (transformador,interruptor, seccionador de potencia etc), Solicito FM = False -> Cumple = False
+0.994;0.012785132;Causa Interrupcion = Falla equipo (transformador,interruptor, seccionador de potencia etc), Responsable Interrupcion = Propia -> Cumple = False
+0.994;0.012760944;Causa Interrupcion = Falla equipo (transformador,interruptor, seccionador de potencia etc), Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.994;0.023134921;Motivo = Falla, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.994;0.022831976;Motivo = Falla, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.993;0.009898174;Submotivo = Averia de transformadores, Causa Interrupcion = Falla equipo (transformador,interruptor, seccionador de potencia etc) -> Cumple = False
+0.993;0.009898174;Submotivo = Averia de transformadores -> Cumple = False
+0.993;0.009898174;Submotivo = Averia de transformadores, Naturaleza Interrupcion = No Programado, Falla -> Cumple = False
+0.993;0.009898174;Submotivo = Averia de transformadores, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.993;0.009898174;Submotivo = Averia de transformadores, Motivo = Falla -> Cumple = False
+0.993;0.009898174;Submotivo = Averia de transformadores, Responsable Interrupcion = Propia -> Cumple = False
+0.993;0.009898174;Submotivo = Averia de transformadores, Solicito FM = False -> Cumple = False
+0.993;0.009859664;Submotivo = Averia de transformadores, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.993;0.022196356;Naturaleza Interrupcion = No Programado, Falla, Solicito FM = False -> Cumple = False
+0.993;0.022196356;Naturaleza Interrupcion = No Programado, Falla -> Cumple = False
+0.993;0.022190962;Naturaleza Interrupcion = No Programado, Falla, Responsable Interrupcion = Propia -> Cumple = False
+0.993;0.022190962;Naturaleza Interrupcion = No Programado, Falla, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.993;0.022147863;Motivo = Falla, Responsable Interrupcion = Propia -> Cumple = False
+0.993;0.023468151;Motivo = Falla, Solicito FM = False -> Cumple = False
+0.993;0.023468151;Motivo = Falla -> Cumple = False
+0.993;0.022072656;Naturaleza Interrupcion = No Programado, Falla, Motivo = Falla -> Cumple = False
+0.993;0.02190709;Naturaleza Interrupcion = No Programado, Falla, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.993;0.009618075;Submotivo = Reparacion de Falso contacto/Punto caliente -> Cumple = False
+0.993;0.009618075;Submotivo = Reparacion de Falso contacto/Punto caliente, Causa Interrupcion = Corte de emergencia (No incluidos en PM y PE) -> Cumple = False
+0.993;0.009618075;Submotivo = Reparacion de Falso contacto/Punto caliente, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.993;0.009618075;Submotivo = Reparacion de Falso contacto/Punto caliente, Motivo = Por maniobra sin aviso, corta -> Cumple = False
+0.993;0.009618075;Submotivo = Reparacion de Falso contacto/Punto caliente, Solicito FM = False -> Cumple = False
+0.993;0.009618075;Submotivo = Reparacion de Falso contacto/Punto caliente, Responsable Interrupcion = Propia -> Cumple = False
+0.993;0.009618075;Submotivo = Reparacion de Falso contacto/Punto caliente, Naturaleza Interrupcion = No Programado, Operacion -> Cumple = False
+0.993;0.009356777;Submotivo = Reparacion de Falso contacto/Punto caliente, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.993;0.011711194;Responsable Interrupcion = Terceros, Solicito FM = False -> Cumple = False
+0.993;0.012148525;Submotivo = Aves, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.993;0.012148525;Causa Interrupcion = Aves, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.993;0.009122089;Submotivo = Contacto entre conductores, Causa Interrupcion = Contacto entre conductores -> Cumple = False
+0.993;0.009122089;Submotivo = Contacto entre conductores -> Cumple = False
+0.993;0.009122089;Submotivo = Contacto entre conductores, Responsable Interrupcion = Propia -> Cumple = False
+0.993;0.009122089;Submotivo = Contacto entre conductores, Solicito FM = False -> Cumple = False
+0.993;0.009122089;Submotivo = Contacto entre conductores, Naturaleza Interrupcion = No Programado, Falla -> Cumple = False
+0.993;0.009122089;Submotivo = Contacto entre conductores, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.993;0.009122089;Submotivo = Contacto entre conductores, Motivo = Falla -> Cumple = False
+0.993;0.009122089;Submotivo = Contacto entre conductores, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.992;0.010729576;Submotivo = Bajo nivel de aislamiento ( Elemento Electrico mal dimensionado), Tipo Med = Alimentador Media Tension -> Cumple = False
+0.992;0.010383103;Causa Interrupcion = Contacto de red con arbol, Responsable Interrupcion = Propia -> Cumple = False
+0.992;0.010383103;Causa Interrupcion = Contacto de red con arbol, Solicito FM = False -> Cumple = False
+0.992;0.010383103;Causa Interrupcion = Contacto de red con arbol, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.992;0.010383103;Causa Interrupcion = Contacto de red con arbol, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.992;0.010383103;Submotivo = Contacto de Red con arbol, Responsable Interrupcion = Propia -> Cumple = False
+0.992;0.010383103;Submotivo = Contacto de Red con arbol, Causa Interrupcion = Contacto de red con arbol -> Cumple = False
+0.992;0.010383103;Submotivo = Contacto de Red con arbol, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.992;0.010383103;Submotivo = Contacto de Red con arbol, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.992;0.010383103;Causa Interrupcion = Contacto de red con arbol -> Cumple = False
+0.992;0.010383103;Submotivo = Contacto de Red con arbol -> Cumple = False
+0.992;0.010383103;Submotivo = Contacto de Red con arbol, Solicito FM = False -> Cumple = False
+0.992;0.010383103;Causa Interrupcion = Contacto de red con arbol, Motivo = Falla -> Cumple = False
+0.992;0.010383103;Causa Interrupcion = Contacto de red con arbol, Naturaleza Interrupcion = No Programado, Falla -> Cumple = False
+0.992;0.010383103;Submotivo = Contacto de Red con arbol, Naturaleza Interrupcion = No Programado, Falla -> Cumple = False
+0.992;0.010383103;Submotivo = Contacto de Red con arbol, Motivo = Falla -> Cumple = False
+0.992;0.008425759;Responsabilidad Interrupcion = Generacion, Propiedad De La Inst Causante = Otras Empresas Electricas -> Cumple = False
+0.992;0.008181841;Submotivo = Sobrecarga, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.991;0.00778446;Tipo Med = Linea de Subtransmision, Naturaleza Interrupcion = No Programado, Accion De Terceros -> Cumple = False
+0.991;0.010528027;Causa Interrupcion = Contacto entre conductores, Solicito FM = False -> Cumple = False
+0.991;0.010528027;Causa Interrupcion = Contacto entre conductores, Naturaleza Interrupcion = No Programado, Falla -> Cumple = False
+0.991;0.010528027;Causa Interrupcion = Contacto entre conductores, Motivo = Falla -> Cumple = False
+0.991;0.010528027;Causa Interrupcion = Contacto entre conductores, Responsable Interrupcion = Propia -> Cumple = False
+0.991;0.010528027;Causa Interrupcion = Contacto entre conductores, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.991;0.010528027;Causa Interrupcion = Contacto entre conductores -> Cumple = False
+0.991;0.010475505;Causa Interrupcion = Contacto entre conductores, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.991;0.009457686;Naturaleza Interrupcion = No Programado, Accion De Terceros, Motivo = Falla -> Cumple = False
+0.99;0.007265403;Submotivo = De coordinacion de proteccion -> Cumple = False
+0.99;0.007265403;Causa Interrupcion = Ajuste inadecuado de la proteccion, Solicito FM = False -> Cumple = False
+0.99;0.007265403;Causa Interrupcion = Ajuste inadecuado de la proteccion, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.99;0.007265403;Causa Interrupcion = Ajuste inadecuado de la proteccion, Responsable Interrupcion = Propia -> Cumple = False
+0.99;0.007265403;Submotivo = De coordinacion de proteccion, Causa Interrupcion = Ajuste inadecuado de la proteccion -> Cumple = False
+0.99;0.007265403;Submotivo = De coordinacion de proteccion, Solicito FM = False -> Cumple = False
+0.99;0.007265403;Submotivo = De coordinacion de proteccion, Naturaleza Interrupcion = No Programado, Falla -> Cumple = False
+0.99;0.007265403;Submotivo = De coordinacion de proteccion, Motivo = Falla -> Cumple = False
+0.99;0.007265403;Submotivo = De coordinacion de proteccion, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.99;0.007265403;Causa Interrupcion = Ajuste inadecuado de la proteccion -> Cumple = False
+0.99;0.007265403;Causa Interrupcion = Ajuste inadecuado de la proteccion, Motivo = Falla -> Cumple = False
+0.99;0.007265403;Causa Interrupcion = Ajuste inadecuado de la proteccion, Naturaleza Interrupcion = No Programado, Falla -> Cumple = False
+0.99;0.007265403;Submotivo = De coordinacion de proteccion, Responsable Interrupcion = Propia -> Cumple = False
+0.99;0.010665333;Naturaleza Interrupcion = No Programado, Accion De Terceros, Solicito FM = False -> Cumple = False
+0.99;0.006674567;Causa Interrupcion = Ajuste inadecuado de la proteccion, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.99;0.006674567;Submotivo = De coordinacion de proteccion, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.99;0.008896328;Causa Interrupcion = Contacto de red con arbol, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.99;0.008896328;Submotivo = Contacto de Red con arbol, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.99;0.006490397;Causa Interrupcion = Contacto entre conductores, Tipo Med = Alimentador Media Tension -> Cumple = False
+0.989;0.006395486;Tipo Med = Linea de Subtransmision, Solicito FM = True -> Cumple = False
+0.989;0.006298611;Tipo Med = Linea de Subtransmision, Motivo = Otros y/o terceros -> Cumple = False
+0.989;0.009378757;Causa Interrupcion = Bajo nivel de aislamiento (Aislado roto / Tension inadecuada), Tipo Med = Alimentador Media Tension -> Cumple = False
+0.989;0.008233508;Causa Interrupcion = Contacto entre conductores, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.989;0.005672411;Submotivo = Contacto entre conductores, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.988;0.008969327;Submotivo = Otros, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.987;0.004420656;Tipo Med = Linea de Subtransmision, Responsable Interrupcion = Terceros -> Cumple = False
+0.987;0.004131792;Submotivo = De generadora / transmisora, Motivo = Falla -> Cumple = False
+0.987;0.004131792;Submotivo = De generadora / transmisora, Naturaleza Interrupcion = No Programado, Accion De Terceros -> Cumple = False
+0.987;0.004131792;Submotivo = De generadora / transmisora, Causa Interrupcion = Falla sistema interconectado -> Cumple = False
+0.987;0.004131792;Submotivo = De generadora / transmisora, Solicito FM = False -> Cumple = False
+0.987;0.004131792;Submotivo = De generadora / transmisora, Responsable Interrupcion = Otras Empresas Electricas -> Cumple = False
+0.987;0.004131792;Submotivo = De generadora / transmisora -> Cumple = False
+0.987;0.004131792;Submotivo = De generadora / transmisora, Propiedad De La Inst Causante = Otras Empresas Electricas -> Cumple = False
+0.986;0.013541212;Tipo Med = Seccion de Linea o Alimentador, Solicito FM = False -> Cumple = False
+0.986;0.008608395;Motivo = Otros y/o terceros, Solicito FM = False -> Cumple = False
+0.986;0.010328525;Tipo Med = Alimentador Media Tension, Motivo = Falla -> Cumple = False
+0.986;0.006460076;Responsabilidad Interrupcion = Generacion -> Cumple = False
+0.986;0.006128688;Responsabilidad Interrupcion = Transmision, Responsable Interrupcion = Terceros -> Cumple = False
+0.986;0.002992223;Causa Interrupcion = Caida de arbol, Tipo Med = Alimentador Media Tension -> Cumple = False
+0.986;0.002992223;Submotivo = Caida de arboles, Tipo Med = Alimentador Media Tension -> Cumple = False
+0.985;0.009670548;Tipo Med = Alimentador Media Tension, Naturaleza Interrupcion = No Programado, Falla -> Cumple = False
+0.985;0.002431657;Submotivo = Reparacion de Falso contacto/Punto caliente, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.984;0.004978794;Naturaleza Interrupcion = No Programado, Fenomenos Naturales, Solicito FM = False -> Cumple = False
+0.984;0.001601892;Submotivo = De coordinacion de proteccion, Tipo Med = Alimentador Media Tension -> Cumple = False
+0.984;0.004978794;Responsable Interrupcion = Fenomenos Naturales, Solicito FM = False -> Cumple = False
+0.984;0.001601892;Causa Interrupcion = Ajuste inadecuado de la proteccion, Tipo Med = Alimentador Media Tension -> Cumple = False
+0.984;0.008675141;Causa Interrupcion = Aves, Motivo = Otros y/o terceros -> Cumple = False
+0.984;0.008675141;Submotivo = Aves, Motivo = Otros y/o terceros -> Cumple = False
+0.984;0.008675141;Submotivo = Aves, Responsable Interrupcion = Terceros -> Cumple = False
+0.984;0.008675141;Causa Interrupcion = Aves, Naturaleza Interrupcion = No Programado, Accion De Terceros -> Cumple = False
+0.984;0.008675141;Causa Interrupcion = Aves, Responsable Interrupcion = Terceros -> Cumple = False
+0.984;0.008675141;Submotivo = Aves -> Cumple = False
+0.984;0.008675141;Submotivo = Aves, Naturaleza Interrupcion = No Programado, Accion De Terceros -> Cumple = False
+0.984;0.008675141;Causa Interrupcion = Aves, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.984;0.008675141;Causa Interrupcion = Aves -> Cumple = False
+0.984;0.008675141;Submotivo = Aves, Causa Interrupcion = Aves -> Cumple = False
+0.984;0.008675141;Submotivo = Aves, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.984;0.004804653;Propiedad De La Inst Causante = Otras Empresas Electricas, Motivo = Falla -> Cumple = False
+0.984;0.004804653;Responsable Interrupcion = Otras Empresas Electricas, Motivo = Falla -> Cumple = False
+0.983;0.001146511;Submotivo = Averia en equipo de proteccion y/o maniobra, Motivo = Falla -> Cumple = False
+0.983;0.001146511;Submotivo = Averia en equipo de proteccion y/o maniobra, Naturaleza Interrupcion = No Programado, Falla -> Cumple = False
+0.983;0.001146511;Submotivo = Averia en equipo de proteccion y/o maniobra -> Cumple = False
+0.983;0.001146511;Submotivo = Averia en equipo de proteccion y/o maniobra, Solicito FM = False -> Cumple = False
+0.983;0.001146511;Submotivo = Averia en equipo de proteccion y/o maniobra, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.983;0.001146511;Submotivo = Averia en equipo de proteccion y/o maniobra, Responsable Interrupcion = Propia -> Cumple = False
+0.983;0.001146511;Submotivo = Averia en equipo de proteccion y/o maniobra, Causa Interrupcion = Falla equipo (transformador,interruptor, seccionador de potencia etc) -> Cumple = False
+0.983;0.025103628;Solicito FM = False, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.983;0.000660468;Submotivo = Averia en equipo de proteccion y/o maniobra, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.983;0.008021685;Causa Interrupcion = Aves, Solicito FM = True -> Cumple = False
+0.983;0.008021685;Submotivo = Aves, Solicito FM = True -> Cumple = False
+0.982;0.007857738;Submotivo = Aves, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.982;0.007857738;Causa Interrupcion = Aves, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.982;0.003737309;Propiedad De La Inst Causante = Otras Empresas Electricas, Naturaleza Interrupcion = No Programado, Accion De Terceros -> Cumple = False
+0.982;0.024034368;Solicito FM = False, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.981;0.003409285;Responsable Interrupcion = Otras Empresas Electricas, Naturaleza Interrupcion = No Programado, Accion De Terceros -> Cumple = False
+0.981;0.024634688;Solicito FM = False -> Cumple = False
+0.981;0.019222189;Responsable Interrupcion = Propia, Solicito FM = False -> Cumple = False
+0.981;0.004457638;Responsabilidad Interrupcion = Transmision, Motivo = Otros y/o terceros -> Cumple = False
+0.979;-0.002361149;Tipo Med = Linea de Subtransmision, Propiedad De La Inst Causante = Otras Empresas Electricas -> Cumple = False
+0.979;0.005317519;Causa Interrupcion = Otros, causados por terceros, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.978;0.003680166;Causa Interrupcion = Caida conductor de red, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.978;0.003680166;Submotivo = Linea abierta o caida, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.978;-0.003522552;Tipo Med = Linea de Subtransmision, Responsable Interrupcion = Otras Empresas Electricas -> Cumple = False
+0.978;0.007654313;Tipo Med = Seccion de Linea o Alimentador, Responsable Interrupcion = Propia -> Cumple = False
+0.976;0.000140955;Submotivo = Cambio de ferreteria y accesorios, Responsable Interrupcion = Propia -> Cumple = False
+0.976;0.000140955;Submotivo = Cambio de ferreteria y accesorios, Solicito FM = False -> Cumple = False
+0.976;0.000140955;Submotivo = Cambio de ferreteria y accesorios, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.976;0.000140955;Submotivo = Cambio de ferreteria y accesorios, Motivo = Mantenimiento preventivo -> Cumple = False
+0.976;0.000140955;Submotivo = Cambio de ferreteria y accesorios -> Cumple = False
+0.976;0.000140955;Submotivo = Cambio de ferreteria y accesorios, Naturaleza Interrupcion = Programado Mantenimiento -> Cumple = False
+0.976;0.000140955;Submotivo = Cambio de ferreteria y accesorios, Causa Interrupcion = Por mantenimiento -> Cumple = False
+0.976;-4.11E-05;Causa Interrupcion = Falla sistema interconectado, Motivo = Falla -> Cumple = False
+0.976;-4.11E-05;Causa Interrupcion = Falla sistema interconectado, Naturaleza Interrupcion = No Programado, Accion De Terceros -> Cumple = False
+0.976;-4.11E-05;Causa Interrupcion = Falla sistema interconectado, Propiedad De La Inst Causante = Otras Empresas Electricas -> Cumple = False
+0.976;-4.11E-05;Causa Interrupcion = Falla sistema interconectado, Responsable Interrupcion = Otras Empresas Electricas -> Cumple = False
+0.976;-4.11E-05;Causa Interrupcion = Falla sistema interconectado -> Cumple = False
+0.976;-4.11E-05;Causa Interrupcion = Falla sistema interconectado, Solicito FM = False -> Cumple = False
+0.976;0.013247664;Responsable Interrupcion = Propia, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.976;0.003720041;Causa Interrupcion = Caida conductor de red, Solicito FM = False -> Cumple = False
+0.976;0.003720041;Submotivo = Linea abierta o caida, Motivo = Falla -> Cumple = False
+0.976;0.003720041;Submotivo = Linea abierta o caida, Causa Interrupcion = Caida conductor de red -> Cumple = False
+0.976;0.003720041;Submotivo = Linea abierta o caida, Responsable Interrupcion = Propia -> Cumple = False
+0.976;0.003720041;Submotivo = Linea abierta o caida -> Cumple = False
+0.976;0.003720041;Submotivo = Linea abierta o caida, Solicito FM = False -> Cumple = False
+0.976;0.003720041;Submotivo = Linea abierta o caida, Naturaleza Interrupcion = No Programado, Falla -> Cumple = False
+0.976;0.003720041;Submotivo = Linea abierta o caida, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.976;0.003720041;Causa Interrupcion = Caida conductor de red, Motivo = Falla -> Cumple = False
+0.976;0.003720041;Causa Interrupcion = Caida conductor de red, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.976;0.003720041;Causa Interrupcion = Caida conductor de red -> Cumple = False
+0.976;0.003720041;Causa Interrupcion = Caida conductor de red, Naturaleza Interrupcion = No Programado, Falla -> Cumple = False
+0.976;0.003720041;Causa Interrupcion = Caida conductor de red, Responsable Interrupcion = Propia -> Cumple = False
+0.976;-0.000418194;Submotivo = Cambio de ferreteria y accesorios, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.976;0.003617982;Causa Interrupcion = Caida conductor de red, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.976;0.003617982;Submotivo = Linea abierta o caida, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.975;0.002050406;Responsabilidad Interrupcion = Transmision, Naturaleza Interrupcion = No Programado, Accion De Terceros -> Cumple = False
+0.974;0.010919322;Responsable Interrupcion = Propia, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.973;0.0103863;Responsable Interrupcion = Propia -> Cumple = False
+0.973;-0.002127573;Responsabilidad Interrupcion = Transmision, Motivo = Falla -> Cumple = False
+0.973;0.006089428;Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.973;0.006083172;Tipo Med = Seccion de Linea o Alimentador, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.973;0.006070662;Tipo Med = Seccion de Linea o Alimentador, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.973;-0.00236722;Submotivo = Falla terminal cable, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.973;-0.00236722;Submotivo = Falla terminal cable, Responsable Interrupcion = Propia -> Cumple = False
+0.973;-0.00236722;Causa Interrupcion = Falla terminal cable, Solicito FM = False -> Cumple = False
+0.973;-0.00236722;Submotivo = Falla terminal cable, Motivo = Falla -> Cumple = False
+0.973;-0.00236722;Causa Interrupcion = Falla terminal cable, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.973;-0.00236722;Submotivo = Falla terminal cable, Solicito FM = False -> Cumple = False
+0.973;-0.00236722;Causa Interrupcion = Falla terminal cable -> Cumple = False
+0.973;-0.00236722;Submotivo = Falla terminal cable, Causa Interrupcion = Falla terminal cable -> Cumple = False
+0.973;-0.00236722;Submotivo = Falla terminal cable -> Cumple = False
+0.973;-0.00236722;Submotivo = Falla terminal cable, Naturaleza Interrupcion = No Programado, Falla -> Cumple = False
+0.973;-0.00236722;Causa Interrupcion = Falla terminal cable, Naturaleza Interrupcion = No Programado, Falla -> Cumple = False
+0.973;-0.00236722;Causa Interrupcion = Falla terminal cable, Motivo = Falla -> Cumple = False
+0.973;-0.00236722;Causa Interrupcion = Falla terminal cable, Responsable Interrupcion = Propia -> Cumple = False
+0.972;-0.002866498;Submotivo = Falla terminal cable, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.972;-0.002866498;Causa Interrupcion = Falla terminal cable, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.97;-0.000229397;Responsable Interrupcion = Otras Empresas Electricas -> Cumple = False
+0.97;-0.000229397;Responsable Interrupcion = Otras Empresas Electricas, Propiedad De La Inst Causante = Otras Empresas Electricas -> Cumple = False
+0.968;-0.00112115;Naturaleza Interrupcion = No Programado, Fenomenos Naturales, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.968;-0.00112115;Responsable Interrupcion = Fenomenos Naturales, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.967;-0.003748801;Causa Interrupcion = Falla equipo (transformador,interruptor, seccionador de potencia etc), Tipo Med = Alimentador Media Tension -> Cumple = False
+0.967;-0.002026079;Responsable Interrupcion = Otras Empresas Electricas, Solicito FM = False -> Cumple = False
+0.967;0.012985043;Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.967;0.012985043;Responsabilidad Interrupcion = Distribucion, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.966;-0.004181225;Causa Interrupcion = Otros fenomenos naturales y/o ambientales, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.966;0.006645699;Propiedad De La Inst Causante = Propia -> Cumple = False
+0.966;-0.006938997;Tipo Med = Subestacion de Potencia, Motivo = Falla -> Cumple = False
+0.964;-0.001009471;Responsable Interrupcion = Terceros, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.964;-0.005602664;Submotivo = Condiciones climaticas extremas, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.963;-0.001552086;Causa Interrupcion = Otros, causados por terceros, Naturaleza Interrupcion = No Programado, Accion De Terceros -> Cumple = False
+0.963;-0.001552086;Causa Interrupcion = Otros, causados por terceros -> Cumple = False
+0.963;-0.001552086;Causa Interrupcion = Otros, causados por terceros, Responsable Interrupcion = Terceros -> Cumple = False
+0.963;-0.001483252;Motivo = Otros y/o terceros, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.963;-0.001616564;Causa Interrupcion = Otros, causados por terceros, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.963;-0.00362512;Submotivo = Caida de arboles, Solicito FM = True -> Cumple = False
+0.963;-0.00362512;Causa Interrupcion = Caida de arbol, Solicito FM = True -> Cumple = False
+0.963;-0.004127197;Causa Interrupcion = Caida conductor de red, Tipo Med = Alimentador Media Tension -> Cumple = False
+0.963;-0.004127197;Submotivo = Linea abierta o caida, Tipo Med = Alimentador Media Tension -> Cumple = False
+0.963;-0.00177632;Submotivo = Otros, Causa Interrupcion = Otros, causados por terceros -> Cumple = False
+0.963;-0.00177632;Submotivo = Otros, Motivo = Otros y/o terceros -> Cumple = False
+0.963;-0.00177632;Submotivo = Otros, Naturaleza Interrupcion = No Programado, Accion De Terceros -> Cumple = False
+0.963;-0.00177632;Submotivo = Otros, Responsable Interrupcion = Terceros -> Cumple = False
+0.963;-0.00177632;Submotivo = Otros -> Cumple = False
+0.963;-0.001578385;Naturaleza Interrupcion = No Programado, Accion De Terceros, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.963;-0.001831285;Submotivo = Otros, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.963;-0.001784665;Causa Interrupcion = Otros, causados por terceros, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.963;-0.001943357;Submotivo = Otros, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.963;-0.003867485;Tipo Med = Linea de Subtransmision -> Cumple = False
+0.962;-0.003679021;Causa Interrupcion = Caida de arbol, Naturaleza Interrupcion = No Programado, Accion De Terceros -> Cumple = False
+0.962;-0.003679021;Causa Interrupcion = Caida de arbol -> Cumple = False
+0.962;-0.003679021;Submotivo = Caida de arboles, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.962;-0.003679021;Causa Interrupcion = Caida de arbol, Motivo = Otros y/o terceros -> Cumple = False
+0.962;-0.003679021;Submotivo = Caida de arboles, Causa Interrupcion = Caida de arbol -> Cumple = False
+0.962;-0.003679021;Submotivo = Caida de arboles, Responsable Interrupcion = Terceros -> Cumple = False
+0.962;-0.003679021;Submotivo = Caida de arboles, Naturaleza Interrupcion = No Programado, Accion De Terceros -> Cumple = False
+0.962;-0.003679021;Submotivo = Caida de arboles, Motivo = Otros y/o terceros -> Cumple = False
+0.962;-0.003679021;Causa Interrupcion = Caida de arbol, Responsable Interrupcion = Terceros -> Cumple = False
+0.962;-0.003679021;Causa Interrupcion = Caida de arbol, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.962;-0.003679021;Submotivo = Caida de arboles -> Cumple = False
+0.962;-0.009495825;Tipo Med = Subestacion de Potencia, Responsable Interrupcion = Terceros -> Cumple = False
+0.961;-0.004109986;Causa Interrupcion = Caida de arbol, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.961;-0.004109986;Submotivo = Caida de arboles, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.961;-0.004500669;Propiedad De La Inst Causante = Otras Empresas Electricas, Solicito FM = False -> Cumple = False
+0.961;-0.009979712;Submotivo = Incremento de la Capacidad de Transformacion, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.96;-0.003716054;Causa Interrupcion = Aves, Tipo Med = Alimentador Media Tension -> Cumple = False
+0.96;-0.003716054;Submotivo = Aves, Tipo Med = Alimentador Media Tension -> Cumple = False
+0.96;-0.00450709;Submotivo = Objetos en redes (Cometas, cintas, etc), Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.96;-0.00450709;Causa Interrupcion = Cometas, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.959;-0.005029531;Causa Interrupcion = Cometas, Solicito FM = True -> Cumple = False
+0.959;-0.005029531;Submotivo = Objetos en redes (Cometas, cintas, etc), Solicito FM = True -> Cumple = False
+0.959;-0.004838995;Submotivo = Objetos en redes (Cometas, cintas, etc), Responsable Interrupcion = Terceros -> Cumple = False
+0.959;-0.004838995;Causa Interrupcion = Cometas -> Cumple = False
+0.959;-0.004838995;Submotivo = Objetos en redes (Cometas, cintas, etc), Motivo = Otros y/o terceros -> Cumple = False
+0.959;-0.004838995;Causa Interrupcion = Cometas, Motivo = Otros y/o terceros -> Cumple = False
+0.959;-0.004838995;Causa Interrupcion = Cometas, Naturaleza Interrupcion = No Programado, Accion De Terceros -> Cumple = False
+0.959;-0.004838995;Causa Interrupcion = Cometas, Responsable Interrupcion = Terceros -> Cumple = False
+0.959;-0.004838995;Submotivo = Objetos en redes (Cometas, cintas, etc), Propiedad De La Inst Causante = Propia -> Cumple = False
+0.959;-0.004838995;Causa Interrupcion = Cometas, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.959;-0.004838995;Submotivo = Objetos en redes (Cometas, cintas, etc) -> Cumple = False
+0.959;-0.004838995;Submotivo = Objetos en redes (Cometas, cintas, etc), Causa Interrupcion = Cometas -> Cumple = False
+0.959;-0.004838995;Submotivo = Objetos en redes (Cometas, cintas, etc), Naturaleza Interrupcion = No Programado, Accion De Terceros -> Cumple = False
+0.958;-0.004083953;Tipo Med = Alimentador Media Tension, Solicito FM = False -> Cumple = False
+0.958;-0.009161833;Tipo Med = Subestacion de Potencia, Motivo = Otros y/o terceros -> Cumple = False
+0.957;-0.012118512;Submotivo = Fuertes vientos en la zona, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.957;-0.012118512;Causa Interrupcion = Fuertes vientos, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.957;-0.004735792;Causa Interrupcion = Otros, causados por terceros, Motivo = Otros y/o terceros -> Cumple = False
+0.957;-0.012710591;Submotivo = Colision de vehiculo contra retenida, Tipo Med = Alimentador Media Tension -> Cumple = False
+0.956;-0.007777146;Submotivo = Colision de vehiculo contra retenida, Causa Interrupcion = Impacto vehicular -> Cumple = False
+0.956;-0.007777146;Submotivo = Colision de vehiculo contra retenida -> Cumple = False
+0.956;-0.007777146;Submotivo = Colision de vehiculo contra retenida, Motivo = Otros y/o terceros -> Cumple = False
+0.956;-0.007777146;Submotivo = Colision de vehiculo contra retenida, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.956;-0.007777146;Submotivo = Colision de vehiculo contra retenida, Responsable Interrupcion = Terceros -> Cumple = False
+0.956;-0.007777146;Submotivo = Colision de vehiculo contra retenida, Naturaleza Interrupcion = No Programado, Accion De Terceros -> Cumple = False
+0.956;-0.006645699;Propiedad De La Inst Causante = Otras Empresas Electricas -> Cumple = False
+0.956;-0.007984795;Submotivo = Colision de vehiculo contra retenida, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.956;-0.008972523;Tipo Med = Subestacion de Potencia, Naturaleza Interrupcion = No Programado, Accion De Terceros -> Cumple = False
+0.955;-0.00819616;Tipo Med = Linea de Subtransmision, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.954;-0.006275988;Submotivo = Otros, Solicito FM = True -> Cumple = False
+0.953;-0.01185155;Submotivo = Colision de vehiculo contra retenida, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.953;-0.007275357;Responsable Interrupcion = Fenomenos Naturales, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.953;-0.007275357;Naturaleza Interrupcion = No Programado, Fenomenos Naturales, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.952;-0.007281843;Naturaleza Interrupcion = No Programado, Fenomenos Naturales -> Cumple = False
+0.952;-0.007281843;Responsable Interrupcion = Fenomenos Naturales, Naturaleza Interrupcion = No Programado, Fenomenos Naturales -> Cumple = False
+0.952;-0.009788735;Submotivo = Colision de vehiculo contra retenida, Solicito FM = True -> Cumple = False
+0.952;-0.007281843;Responsable Interrupcion = Fenomenos Naturales -> Cumple = False
+0.952;-0.007351729;Responsable Interrupcion = Fenomenos Naturales, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.952;-0.007351729;Naturaleza Interrupcion = No Programado, Fenomenos Naturales, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.952;-0.00936321;Tipo Med = Linea de Subtransmision, Responsabilidad Interrupcion = Transmision -> Cumple = False
+0.949;-0.010523444;Responsable Interrupcion = Terceros -> Cumple = False
+0.949;-0.010552793;Responsable Interrupcion = Terceros, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.949;-0.010613939;Naturaleza Interrupcion = No Programado, Accion De Terceros -> Cumple = False
+0.948;-0.010357773;Responsabilidad Interrupcion = Transmision, Solicito FM = True -> Cumple = False
+0.948;-0.011240685;Responsable Interrupcion = Terceros, Naturaleza Interrupcion = No Programado, Accion De Terceros -> Cumple = False
+0.948;-0.01127117;Naturaleza Interrupcion = No Programado, Accion De Terceros, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.947;-0.011571801;Responsable Interrupcion = Terceros, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.947;-0.012251967;Motivo = Otros y/o terceros -> Cumple = False
+0.947;-0.011818082;Responsable Interrupcion = Terceros, Motivo = Otros y/o terceros -> Cumple = False
+0.947;-0.009652229;Causa Interrupcion = Otros, causados por terceros, Solicito FM = True -> Cumple = False
+0.947;-0.012522184;Motivo = Otros y/o terceros, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.946;-0.012327617;Naturaleza Interrupcion = No Programado, Accion De Terceros, Motivo = Otros y/o terceros -> Cumple = False
+0.946;-0.012535823;Submotivo = Caida de arboles, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.946;-0.012535823;Causa Interrupcion = Caida de arbol, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.946;-0.012342515;Naturaleza Interrupcion = No Programado, Accion De Terceros, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.945;-0.014694465;Causa Interrupcion = Fuertes vientos, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.945;-0.014694465;Causa Interrupcion = Fuertes vientos, Naturaleza Interrupcion = No Programado, Fenomenos Naturales -> Cumple = False
+0.945;-0.014694465;Causa Interrupcion = Fuertes vientos, Motivo = Otros y/o terceros -> Cumple = False
+0.945;-0.014694465;Causa Interrupcion = Fuertes vientos, Responsable Interrupcion = Fenomenos Naturales -> Cumple = False
+0.945;-0.014694465;Causa Interrupcion = Fuertes vientos -> Cumple = False
+0.945;-0.014694465;Submotivo = Fuertes vientos en la zona, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.945;-0.014694465;Submotivo = Fuertes vientos en la zona, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.945;-0.014694465;Submotivo = Fuertes vientos en la zona, Naturaleza Interrupcion = No Programado, Fenomenos Naturales -> Cumple = False
+0.945;-0.014694465;Submotivo = Fuertes vientos en la zona, Motivo = Otros y/o terceros -> Cumple = False
+0.945;-0.014694465;Submotivo = Fuertes vientos en la zona, Causa Interrupcion = Fuertes vientos -> Cumple = False
+0.945;-0.014694465;Causa Interrupcion = Fuertes vientos, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.945;-0.014694465;Submotivo = Fuertes vientos en la zona, Responsable Interrupcion = Fenomenos Naturales -> Cumple = False
+0.945;-0.014694465;Submotivo = Fuertes vientos en la zona -> Cumple = False
+0.945;-0.011258712;Solicito FM = True, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.945;-0.013517259;Motivo = Otros y/o terceros, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.944;-0.011471085;Naturaleza Interrupcion = No Programado, Fenomenos Naturales, Motivo = Otros y/o terceros -> Cumple = False
+0.944;-0.011471085;Responsable Interrupcion = Fenomenos Naturales, Motivo = Otros y/o terceros -> Cumple = False
+0.943;-0.012226708;Tipo Med = Alimentador Media Tension, Responsable Interrupcion = Propia -> Cumple = False
+0.942;-0.01437588;Solicito FM = True, Responsable Interrupcion = Terceros -> Cumple = False
+0.942;-0.013052058;Causa Interrupcion = Otros fenomenos naturales y/o ambientales, Naturaleza Interrupcion = No Programado, Fenomenos Naturales -> Cumple = False
+0.942;-0.013052058;Causa Interrupcion = Otros fenomenos naturales y/o ambientales -> Cumple = False
+0.942;-0.013052058;Causa Interrupcion = Otros fenomenos naturales y/o ambientales, Motivo = Otros y/o terceros -> Cumple = False
+0.942;-0.013052058;Causa Interrupcion = Otros fenomenos naturales y/o ambientales, Responsable Interrupcion = Fenomenos Naturales -> Cumple = False
+0.942;-0.014986358;Solicito FM = True, Motivo = Otros y/o terceros -> Cumple = False
+0.941;-0.013206927;Causa Interrupcion = Otros fenomenos naturales y/o ambientales, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.941;-0.014925457;Solicito FM = True, Naturaleza Interrupcion = No Programado, Accion De Terceros -> Cumple = False
+0.941;-0.013733081;Causa Interrupcion = Otros fenomenos naturales y/o ambientales, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.939;-0.013385756;Naturaleza Interrupcion = Programado Mantenimiento, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.939;-0.013385756;Motivo = Mantenimiento preventivo, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.939;-0.013385756;Causa Interrupcion = Por mantenimiento, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.939;-0.020195652;Submotivo = Incremento de la Capacidad de Transformacion, Solicito FM = False -> Cumple = False
+0.938;-0.0148526;Submotivo = Condiciones climaticas extremas -> Cumple = False
+0.938;-0.0148526;Submotivo = Condiciones climaticas extremas, Causa Interrupcion = Otros fenomenos naturales y/o ambientales -> Cumple = False
+0.938;-0.0148526;Submotivo = Condiciones climaticas extremas, Responsable Interrupcion = Fenomenos Naturales -> Cumple = False
+0.938;-0.0148526;Submotivo = Condiciones climaticas extremas, Motivo = Otros y/o terceros -> Cumple = False
+0.938;-0.0148526;Submotivo = Condiciones climaticas extremas, Naturaleza Interrupcion = No Programado, Fenomenos Naturales -> Cumple = False
+0.938;-0.015027539;Submotivo = Condiciones climaticas extremas, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.938;-0.014219091;Causa Interrupcion = Otros, causados por terceros, Tipo Med = Alimentador Media Tension -> Cumple = False
+0.938;-0.020937106;Submotivo = Expansion de redes, Causa Interrupcion = Por Expansion o reforzamiento de redes -> Cumple = False
+0.938;-0.020937106;Submotivo = Expansion de redes, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.938;-0.020937106;Submotivo = Expansion de redes, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.938;-0.020937106;Submotivo = Expansion de redes, Motivo = Interrupcion por Expansion y Reforzamiento -> Cumple = False
+0.938;-0.015409452;Submotivo = Condiciones climaticas extremas, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.938;-0.016971972;Submotivo = Mantenimiento de Equipos de Maniobra y Proteccion, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.938;-0.020937106;Submotivo = Expansion de redes -> Cumple = False
+0.938;-0.020937106;Submotivo = Expansion de redes, Responsable Interrupcion = Propia -> Cumple = False
+0.938;-0.020937106;Submotivo = Expansion de redes, Naturaleza Interrupcion = Programado,Expansion O Reforzamiento -> Cumple = False
+0.937;-0.014521281;Submotivo = Otros, Tipo Med = Alimentador Media Tension -> Cumple = False
+0.936;-0.021710098;Submotivo = Expansion de redes, Solicito FM = False -> Cumple = False
+0.935;-0.017020285;Responsable Interrupcion = Fenomenos Naturales, Tipo Med = Alimentador Media Tension -> Cumple = False
+0.935;-0.017020285;Naturaleza Interrupcion = No Programado, Fenomenos Naturales, Tipo Med = Alimentador Media Tension -> Cumple = False
+0.934;-0.019941639;Tipo Med = Alimentador Media Tension -> Cumple = False
+0.934;-0.016536506;Naturaleza Interrupcion = No Programado, Fenomenos Naturales, Solicito FM = True -> Cumple = False
+0.934;-0.016536506;Responsable Interrupcion = Fenomenos Naturales, Solicito FM = True -> Cumple = False
+0.933;-0.020617866;Tipo Med = Alimentador Media Tension, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.933;-0.020758464;Tipo Med = Alimentador Media Tension, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.932;-0.017052619;Naturaleza Interrupcion = Programado Mantenimiento, Responsable Interrupcion = Propia -> Cumple = False
+0.932;-0.017052619;Motivo = Mantenimiento preventivo, Responsable Interrupcion = Propia -> Cumple = False
+0.932;-0.017052619;Naturaleza Interrupcion = Programado Mantenimiento, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.932;-0.017052619;Causa Interrupcion = Por mantenimiento, Responsable Interrupcion = Propia -> Cumple = False
+0.932;-0.017052619;Motivo = Mantenimiento preventivo, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.932;-0.017052619;Causa Interrupcion = Por mantenimiento, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.93;-0.018024831;Naturaleza Interrupcion = Programado Mantenimiento, Causa Interrupcion = Por mantenimiento -> Cumple = False
+0.93;-0.018024831;Naturaleza Interrupcion = Programado Mantenimiento, Motivo = Mantenimiento preventivo -> Cumple = False
+0.93;-0.018024831;Motivo = Mantenimiento preventivo, Causa Interrupcion = Por mantenimiento -> Cumple = False
+0.93;-0.018024831;Motivo = Mantenimiento preventivo -> Cumple = False
+0.93;-0.018024831;Naturaleza Interrupcion = Programado Mantenimiento -> Cumple = False
+0.93;-0.018024831;Causa Interrupcion = Por mantenimiento -> Cumple = False
+0.93;-0.018065451;Naturaleza Interrupcion = Programado Mantenimiento, Solicito FM = False -> Cumple = False
+0.93;-0.018065451;Causa Interrupcion = Por mantenimiento, Solicito FM = False -> Cumple = False
+0.93;-0.018065451;Motivo = Mantenimiento preventivo, Solicito FM = False -> Cumple = False
+0.93;-0.019002755;Causa Interrupcion = Otros fenomenos naturales y/o ambientales, Solicito FM = True -> Cumple = False
+0.93;-0.019925795;Causa Interrupcion = Impacto vehicular, Tipo Med = Alimentador Media Tension -> Cumple = False
+0.929;-0.020667417;Submotivo = Mantenimiento de Equipos de Maniobra y Proteccion, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.929;-0.020667417;Submotivo = Mantenimiento de Equipos de Maniobra y Proteccion, Responsable Interrupcion = Propia -> Cumple = False
+0.929;-0.020667417;Submotivo = Mantenimiento de Equipos de Maniobra y Proteccion, Solicito FM = False -> Cumple = False
+0.929;-0.020667417;Submotivo = Mantenimiento de Equipos de Maniobra y Proteccion, Motivo = Mantenimiento preventivo -> Cumple = False
+0.929;-0.020667417;Submotivo = Mantenimiento de Equipos de Maniobra y Proteccion, Causa Interrupcion = Por mantenimiento -> Cumple = False
+0.929;-0.020667417;Submotivo = Mantenimiento de Equipos de Maniobra y Proteccion, Naturaleza Interrupcion = Programado Mantenimiento -> Cumple = False
+0.929;-0.020667417;Submotivo = Mantenimiento de Equipos de Maniobra y Proteccion -> Cumple = False
+0.928;-0.024519821;Solicito FM = True, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.928;-0.024634688;Solicito FM = True -> Cumple = False
+0.927;-0.019579956;Responsabilidad Interrupcion = Transmision, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.926;-0.024835248;Solicito FM = True, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.925;-0.02140461;Submotivo = Condiciones climaticas extremas, Solicito FM = True -> Cumple = False
+0.925;-0.020618435;Causa Interrupcion = Impacto vehicular, Responsable Interrupcion = Terceros -> Cumple = False
+0.925;-0.020618435;Causa Interrupcion = Impacto vehicular, Naturaleza Interrupcion = No Programado, Accion De Terceros -> Cumple = False
+0.925;-0.020618435;Causa Interrupcion = Impacto vehicular, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.925;-0.020618435;Causa Interrupcion = Impacto vehicular, Motivo = Otros y/o terceros -> Cumple = False
+0.925;-0.020618435;Causa Interrupcion = Impacto vehicular -> Cumple = False
+0.923;-0.021366224;Causa Interrupcion = Impacto vehicular, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.923;-0.025535366;Tipo Med = Linea de Subtransmision, Solicito FM = False -> Cumple = False
+0.921;-0.022793082;Causa Interrupcion = Impacto vehicular, Solicito FM = True -> Cumple = False
+0.919;-0.024235793;Tipo Med = Alimentador Media Tension, Responsable Interrupcion = Terceros -> Cumple = False
+0.919;-0.026786918;Causa Interrupcion = Otros fenomenos naturales y/o ambientales, Tipo Med = Alimentador Media Tension -> Cumple = False
+0.918;-0.024703283;Tipo Med = Alimentador Media Tension, Naturaleza Interrupcion = No Programado, Accion De Terceros -> Cumple = False
+0.918;-0.023647971;Responsabilidad Interrupcion = Transmision -> Cumple = False
+0.918;-0.025013734;Tipo Med = Alimentador Media Tension, Motivo = Otros y/o terceros -> Cumple = False
+0.918;-0.02737636;Submotivo = Cambio de conductor, Naturaleza Interrupcion = Programado Mantenimiento -> Cumple = False
+0.918;-0.02737636;Submotivo = Cambio de conductor, Responsable Interrupcion = Propia -> Cumple = False
+0.918;-0.02737636;Submotivo = Cambio de conductor, Solicito FM = False -> Cumple = False
+0.918;-0.02737636;Submotivo = Cambio de conductor, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.918;-0.02737636;Submotivo = Cambio de conductor, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.918;-0.02737636;Submotivo = Cambio de conductor -> Cumple = False
+0.918;-0.02737636;Submotivo = Cambio de conductor, Causa Interrupcion = Por mantenimiento -> Cumple = False
+0.918;-0.02737636;Submotivo = Cambio de conductor, Motivo = Mantenimiento preventivo -> Cumple = False
+0.918;-0.02627136;Submotivo = Objetos en redes (Cometas, cintas, etc), Tipo Med = Alimentador Media Tension -> Cumple = False
+0.918;-0.02627136;Causa Interrupcion = Cometas, Tipo Med = Alimentador Media Tension -> Cumple = False
+0.917;-0.029002031;Submotivo = Incremento de la Capacidad de Transformacion, Naturaleza Interrupcion = Programado,Expansion O Reforzamiento -> Cumple = False
+0.917;-0.029002031;Submotivo = Incremento de la Capacidad de Transformacion, Motivo = Interrupcion por Expansion y Reforzamiento -> Cumple = False
+0.917;-0.029002031;Submotivo = Incremento de la Capacidad de Transformacion -> Cumple = False
+0.917;-0.027982519;Submotivo = Condiciones climaticas extremas, Tipo Med = Alimentador Media Tension -> Cumple = False
+0.917;-0.029002031;Submotivo = Incremento de la Capacidad de Transformacion, Causa Interrupcion = Por Expansion o reforzamiento de redes -> Cumple = False
+0.917;-0.029002031;Submotivo = Incremento de la Capacidad de Transformacion, Responsable Interrupcion = Propia -> Cumple = False
+0.914;-0.026712936;Naturaleza Interrupcion = Programado Mantenimiento, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.914;-0.026712936;Causa Interrupcion = Por mantenimiento, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.914;-0.026712936;Motivo = Mantenimiento preventivo, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.913;-0.027724259;Causa Interrupcion = Impacto vehicular, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.912;-0.030589459;Submotivo = Colision de vehiculo contra estructuras, Tipo Med = Alimentador Media Tension -> Cumple = False
+0.9;-0.035396662;Tipo Med = Subestacion de Potencia, Solicito FM = True -> Cumple = False
+0.9;-0.038059797;Tipo Med = Subestacion de Potencia, Propiedad De La Inst Causante = Otras Empresas Electricas -> Cumple = False
+0.899;-0.033940233;Submotivo = Colision de vehiculo contra estructuras, Causa Interrupcion = Impacto vehicular -> Cumple = False
+0.899;-0.033940233;Submotivo = Colision de vehiculo contra estructuras -> Cumple = False
+0.899;-0.033940233;Submotivo = Colision de vehiculo contra estructuras, Responsable Interrupcion = Terceros -> Cumple = False
+0.899;-0.033940233;Submotivo = Colision de vehiculo contra estructuras, Naturaleza Interrupcion = No Programado, Accion De Terceros -> Cumple = False
+0.899;-0.033940233;Submotivo = Colision de vehiculo contra estructuras, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.899;-0.033940233;Submotivo = Colision de vehiculo contra estructuras, Motivo = Otros y/o terceros -> Cumple = False
+0.899;-0.035186166;Tipo Med = Alimentador Media Tension, Solicito FM = True -> Cumple = False
+0.898;-0.039173537;Responsable Interrupcion = Otras Empresas Electricas, Responsabilidad Interrupcion = Transmision -> Cumple = False
+0.896;-0.035458698;Submotivo = Colision de vehiculo contra estructuras, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.896;-0.035853073;Submotivo = Colision de vehiculo contra estructuras, Solicito FM = True -> Cumple = False
+0.893;-0.040708854;Submotivo = Incremento de la Capacidad del conductor, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.892;-0.037359212;Tipo Med = Subestacion de Potencia -> Cumple = False
+0.888;-0.039929911;Tipo Med = Subestacion de Potencia, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.887;-0.042879778;Submotivo = Cambio de estructuras, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.884;-0.042980958;Tipo Med = Subestacion de Potencia, Solicito FM = False -> Cumple = False
+0.881;-0.045946547;Propiedad De La Inst Causante = Otras Empresas Electricas, Responsabilidad Interrupcion = Transmision -> Cumple = False
+0.88;-0.043646136;Responsabilidad Interrupcion = Transmision, Solicito FM = False -> Cumple = False
+0.879;-0.043654552;Tipo Med = Subestacion de Potencia, Responsabilidad Interrupcion = Transmision -> Cumple = False
+0.875;-0.047180194;Submotivo = Incremento de la Capacidad del conductor, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.871;-0.047247437;Motivo = Interrupcion por Expansion y Reforzamiento, Solicito FM = False -> Cumple = False
+0.871;-0.050751433;Submotivo = Colision de vehiculo contra estructuras, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.871;-0.047247437;Naturaleza Interrupcion = Programado,Expansion O Reforzamiento, Solicito FM = False -> Cumple = False
+0.87;-0.047514278;Causa Interrupcion = Por Expansion o reforzamiento de redes, Solicito FM = False -> Cumple = False
+0.869;-0.051882517;Submotivo = Limpieza de partes aislantes, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.869;-0.049910044;Causa Interrupcion = Vandalismo, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.869;-0.049910044;Submotivo = Vandalismo, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.864;-0.052830498;Submotivo = Incremento de la Capacidad del conductor, Solicito FM = False -> Cumple = False
+0.86;-0.057457483;Submotivo = Incendio - Quema de material en cercanias -> Cumple = False
+0.86;-0.057457483;Submotivo = Incendio - Quema de material en cercanias, Causa Interrupcion = Otros, causados por terceros -> Cumple = False
+0.86;-0.057457483;Submotivo = Incendio - Quema de material en cercanias, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.86;-0.057457483;Submotivo = Incendio - Quema de material en cercanias, Motivo = Otros y/o terceros -> Cumple = False
+0.86;-0.057457483;Submotivo = Incendio - Quema de material en cercanias, Responsable Interrupcion = Terceros -> Cumple = False
+0.86;-0.057457483;Submotivo = Incendio - Quema de material en cercanias, Naturaleza Interrupcion = No Programado, Accion De Terceros -> Cumple = False
+0.856;-0.056815233;Submotivo = Incremento de la Capacidad del conductor, Naturaleza Interrupcion = Programado,Expansion O Reforzamiento -> Cumple = False
+0.856;-0.056815233;Submotivo = Incremento de la Capacidad del conductor, Causa Interrupcion = Por Expansion o reforzamiento de redes -> Cumple = False
+0.856;-0.056815233;Submotivo = Incremento de la Capacidad del conductor -> Cumple = False
+0.856;-0.056815233;Submotivo = Incremento de la Capacidad del conductor, Responsable Interrupcion = Propia -> Cumple = False
+0.856;-0.056815233;Submotivo = Incremento de la Capacidad del conductor, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.856;-0.056815233;Submotivo = Incremento de la Capacidad del conductor, Motivo = Interrupcion por Expansion y Reforzamiento -> Cumple = False
+0.851;-0.058515718;Submotivo = Cambio de estructuras, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.84;-0.064464188;Submotivo = Cambio de estructuras, Causa Interrupcion = Por mantenimiento -> Cumple = False
+0.84;-0.064464188;Submotivo = Cambio de estructuras -> Cumple = False
+0.84;-0.064464188;Submotivo = Cambio de estructuras, Solicito FM = False -> Cumple = False
+0.84;-0.064464188;Submotivo = Cambio de estructuras, Responsable Interrupcion = Propia -> Cumple = False
+0.84;-0.064464188;Submotivo = Cambio de estructuras, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.84;-0.064464188;Submotivo = Cambio de estructuras, Naturaleza Interrupcion = Programado Mantenimiento -> Cumple = False
+0.84;-0.064464188;Submotivo = Cambio de estructuras, Motivo = Mantenimiento preventivo -> Cumple = False
+0.832;-0.068708981;Responsabilidad Interrupcion = Transmision, Responsable Interrupcion = Propia -> Cumple = False
+0.825;-0.071372639;Causa Interrupcion = Vandalismo, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.825;-0.071372639;Submotivo = Vandalismo, Responsable Interrupcion = Terceros -> Cumple = False
+0.825;-0.071372639;Causa Interrupcion = Vandalismo, Responsable Interrupcion = Terceros -> Cumple = False
+0.825;-0.071372639;Causa Interrupcion = Vandalismo -> Cumple = False
+0.825;-0.071372639;Submotivo = Vandalismo, Motivo = Otros y/o terceros -> Cumple = False
+0.825;-0.071372639;Submotivo = Vandalismo, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.825;-0.071372639;Submotivo = Vandalismo -> Cumple = False
+0.825;-0.071372639;Causa Interrupcion = Vandalismo, Naturaleza Interrupcion = No Programado, Accion De Terceros -> Cumple = False
+0.825;-0.071372639;Submotivo = Vandalismo, Naturaleza Interrupcion = No Programado, Accion De Terceros -> Cumple = False
+0.825;-0.071372639;Submotivo = Vandalismo, Causa Interrupcion = Vandalismo -> Cumple = False
+0.825;-0.071372639;Causa Interrupcion = Vandalismo, Motivo = Otros y/o terceros -> Cumple = False
+0.824;-0.071858564;Causa Interrupcion = Vandalismo, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.824;-0.071858564;Submotivo = Vandalismo, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.821;-0.073349986;Submotivo = Vandalismo, Solicito FM = True -> Cumple = False
+0.821;-0.073349986;Causa Interrupcion = Vandalismo, Solicito FM = True -> Cumple = False
+0.818;-0.077259351;Submotivo = Limpieza de partes aislantes, Naturaleza Interrupcion = Programado Mantenimiento -> Cumple = False
+0.818;-0.077259351;Submotivo = Limpieza de partes aislantes, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.818;-0.077259351;Submotivo = Limpieza de partes aislantes, Motivo = Mantenimiento preventivo -> Cumple = False
+0.818;-0.077259351;Submotivo = Limpieza de partes aislantes, Causa Interrupcion = Por mantenimiento -> Cumple = False
+0.818;-0.077259351;Submotivo = Limpieza de partes aislantes -> Cumple = False
+0.818;-0.077259351;Submotivo = Limpieza de partes aislantes, Solicito FM = False -> Cumple = False
+0.818;-0.077259351;Submotivo = Limpieza de partes aislantes, Responsable Interrupcion = Propia -> Cumple = False
+0.81;-0.079746885;Causa Interrupcion = Por Expansion o reforzamiento de redes, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.81;-0.079746885;Naturaleza Interrupcion = Programado,Expansion O Reforzamiento, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.81;-0.079746885;Motivo = Interrupcion por Expansion y Reforzamiento, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.806;-0.083729166;Tipo Med = Subestacion de Potencia, Responsable Interrupcion = Propia -> Cumple = False
+0.805;-0.081869367;Naturaleza Interrupcion = Programado,Expansion O Reforzamiento, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.805;-0.081869367;Causa Interrupcion = Por Expansion o reforzamiento de redes, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.805;-0.081869367;Motivo = Interrupcion por Expansion y Reforzamiento, Tipo Med = Seccion de Linea o Alimentador -> Cumple = False
+0.8;-0.085547476;Causa Interrupcion = Por Expansion o reforzamiento de redes, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.8;-0.085547476;Motivo = Interrupcion por Expansion y Reforzamiento, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.8;-0.085547476;Naturaleza Interrupcion = Programado,Expansion O Reforzamiento, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.798;-0.086979773;Naturaleza Interrupcion = Programado,Expansion O Reforzamiento -> Cumple = False
+0.798;-0.086979773;Motivo = Interrupcion por Expansion y Reforzamiento -> Cumple = False
+0.798;-0.086979773;Naturaleza Interrupcion = Programado,Expansion O Reforzamiento, Motivo = Interrupcion por Expansion y Reforzamiento -> Cumple = False
+0.797;-0.087251774;Motivo = Interrupcion por Expansion y Reforzamiento, Responsable Interrupcion = Propia -> Cumple = False
+0.797;-0.087251774;Naturaleza Interrupcion = Programado,Expansion O Reforzamiento, Responsable Interrupcion = Propia -> Cumple = False
+0.797;-0.087251774;Causa Interrupcion = Por Expansion o reforzamiento de redes, Motivo = Interrupcion por Expansion y Reforzamiento -> Cumple = False
+0.797;-0.087251774;Causa Interrupcion = Por Expansion o reforzamiento de redes, Responsable Interrupcion = Propia -> Cumple = False
+0.797;-0.087251774;Causa Interrupcion = Por Expansion o reforzamiento de redes, Naturaleza Interrupcion = Programado,Expansion O Reforzamiento -> Cumple = False
+0.797;-0.087251774;Causa Interrupcion = Por Expansion o reforzamiento de redes -> Cumple = False
+0.78;-0.096595811;Submotivo = Vandalismo, Tipo Med = Alimentador Media Tension -> Cumple = False
+0.78;-0.096595811;Causa Interrupcion = Vandalismo, Tipo Med = Alimentador Media Tension -> Cumple = False
+0.722;-0.129511817;Naturaleza Interrupcion = Programado Mantenimiento, Tipo Med = Alimentador Media Tension -> Cumple = False
+0.722;-0.129511817;Motivo = Mantenimiento preventivo, Tipo Med = Alimentador Media Tension -> Cumple = False
+0.722;-0.129511817;Causa Interrupcion = Por mantenimiento, Tipo Med = Alimentador Media Tension -> Cumple = False
+0.694;-0.147049645;Causa Interrupcion = Hurto de conductor o elemento electrico, Solicito FM = True -> Cumple = False
+0.69;-0.149444294;Causa Interrupcion = Hurto de conductor o elemento electrico, Propiedad De La Inst Causante = Propia -> Cumple = False
+0.69;-0.149444294;Causa Interrupcion = Hurto de conductor o elemento electrico, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.69;-0.149444294;Causa Interrupcion = Hurto de conductor o elemento electrico, Responsable Interrupcion = Terceros -> Cumple = False
+0.69;-0.149444294;Causa Interrupcion = Hurto de conductor o elemento electrico, Motivo = Otros y/o terceros -> Cumple = False
+0.69;-0.149444294;Causa Interrupcion = Hurto de conductor o elemento electrico, Naturaleza Interrupcion = No Programado, Accion De Terceros -> Cumple = False
+0.69;-0.149444294;Causa Interrupcion = Hurto de conductor o elemento electrico -> Cumple = False
+0.687;-0.151187022;Solicito FM = True, Responsable Interrupcion = Propia -> Cumple = False
+0.685;-0.152408743;Naturaleza Interrupcion = Programado,Expansion O Reforzamiento, Solicito FM = True -> Cumple = False
+0.685;-0.152408743;Causa Interrupcion = Por Expansion o reforzamiento de redes, Solicito FM = True -> Cumple = False
+0.685;-0.152408743;Motivo = Interrupcion por Expansion y Reforzamiento, Solicito FM = True -> Cumple = False
+0.677;-0.157743889;Submotivo = Exonerado de comp. Exp. o Ref. redes Transmision, Responsabilidad Interrupcion = Distribucion -> Cumple = False
+0.676;-0.158432722;Submotivo = Exonerado de comp. Exp. o Ref. redes Transmision -> Cumple = False
